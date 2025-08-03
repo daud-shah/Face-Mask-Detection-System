@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@yourusername](https://github.com/daud-shah)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/daud-shah40)
-- Email: your.sdaud4214@gmail.com
+- Email: sdaud4214@gmail.com
 
 ---
 
