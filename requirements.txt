@@ -1,0 +1,37 @@
+# Face Mask Detection System Requirements
+# Core dependencies for the AI-powered face mask detection application
+
+# Web Application Framework
+streamlit>=1.28.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Machine Learning and AI
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Data Visualization
+plotly>=5.15.0
+
+# System and Utilities
+tempfile
+datetime
+time
+threading
+queue
+os
+
+# Optional: For better performance on GPU (if available)
+# torch-cuda>=2.0.0  # Uncomment if you have CUDA-compatible GPU
+
+# Development and Testing (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0 
